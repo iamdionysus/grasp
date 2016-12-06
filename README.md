@@ -32,6 +32,7 @@ npm install -g angular-cli
 
 ```
 git clone https://github.com/iamdionysus/grasp.git
+npm install
 ng serve
 ```
 
