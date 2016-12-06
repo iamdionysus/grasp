@@ -1,8 +1,8 @@
 # Grasp
 
-Get the hang of trend.
-
 ## Git & Github
+
+Sign up https://github.com first.
 
 https://nolboo.kim/blog/2013/10/06/github-for-beginner/
 
@@ -31,9 +31,16 @@ npm install -g angular-cli
 ### clone this repo and run
 
 ```
-git clone
+git clone https://github.com/iamdionysus/grasp.git
+ng serve
 ```
 
 ### learn angular 2
 
-Follow [this guide](https://angular.io/docs/ts/latest/guide/setup.html)
+Go to `src/app` folder and start to follow the instruction.
+
+- https://angular.io/docs/ts/latest/guide/displaying-data.html
+- https://angular.io/docs/ts/latest/guide/user-input.html
+- https://angular.io/docs/ts/latest/guide/forms.html
+
+
